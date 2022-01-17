@@ -7,8 +7,8 @@ operations on set*/
 
 int main() 
 {
-  int a[100]={1,4,7,8};
-  int b[50]={2,4,5,7};
+  int a[100];
+  int b[50];
 
   int p,q;
   printf("enter number of elements in a:");
